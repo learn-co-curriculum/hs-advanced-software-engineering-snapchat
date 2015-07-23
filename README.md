@@ -1,6 +1,6 @@
 ##Let's Build Snapchat
 
-You're now snapchat developers. It's your job to build out the User class and the Image class. You'll want to make sure to setup a SQL database with ActiveRecord, create migrations for your tables, and populate those tables with data using tux.
+You're now snapchat developers. It's your job to build out the User class and the Image class. You'll want to create migrations for your tables and populate those tables with data using tux.
 
 ### User class
 Users should:
