@@ -21,3 +21,5 @@ Snaps should:
 BONUS:
 + Create a "delete button" for each snap, to delete it from the view and the database
 
+
+<a href='https://learn.co/lessons/hs-advanced-software-engineering-snapchat' data-visibility='hidden'>View this lesson on Learn.co</a>
