@@ -22,4 +22,4 @@ BONUS:
 + Create a "delete button" for each snap, to delete it from the view and the database
 
 
-<a href='https://learn.co/lessons/hs-advanced-software-engineering-snapchat' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-software-engineering-snapchat' title='Let's Build Snapchat'>Let's Build Snapchat</a> on Learn.co and start learning to code for free.</p>
